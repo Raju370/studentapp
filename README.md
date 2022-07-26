@@ -2,6 +2,7 @@
 
 
 //Customised class
+
 class Student{
 
 String sname;
@@ -18,6 +19,7 @@ ssalary = salary;
 }
 
 //App class
+
 class studentApplication{
 
 public static void main(String args []){
